@@ -20,31 +20,34 @@ Linux, CI/CD, Azure Devops, Ansible, AWS, Puppet
 
 Freelance / indépendant en informatique
 
-### 2018-2024
+###2018-2024
 __ING Bank France__
 OPS Engineer
 
-### 2005-2018
+###2005-2018
 __AON France__
 Ingénieur système / Administrateur systèmes et réseaux
 
-### 2001-2005
+###2001-2005
 __Ozitem__
 Technicien d'exploitation UNIX, missions chez Wanadoo Services pro et Natixis Bleichroder
 
 ## Formation
 
 ###1996-1998
+
 __BTS Transport logistique__
 
-- lycée Lesage de Vannes
+lycée Lesage de Vannes
 
 ###1999
+
 __Service militaire__
 
-- Armée
+Armée
 
 ###2001-2003
+
 __Gestionnaire de parc informatique__
 
 - Institut Poly informatique
