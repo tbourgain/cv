@@ -4,7 +4,7 @@ title: Thomas Bourgain - OPS Engineer
 ---
 # Thomas Bourgain
 OPS Engineer indépendant / Freelance\\
-Ingénieur systèmes et réseaux polyvalent et expérimenté, j'essaye de privilégier les solutions open-source reconnues et innovantes. J'interviens sur des domaines aussi variés que l'expertise technique, l'architecture technique, l'optimisation, la supervision, l'automatisation, …
+_Ingénieur systèmes et réseaux polyvalent et expérimenté, j'essaye de privilégier les solutions open-source reconnues et innovantes. J'interviens sur des domaines aussi variés que l'expertise technique, l'architecture technique, l'optimisation, la supervision, l'automatisation_
 
 <div id="webaddress">
 <a href="tb@veloc.it">tb@veloc.it</a>
@@ -18,7 +18,7 @@ Linux, CI/CD, Kubernetes, Azure Devops, Ansible, AWS, Puppet
 ## Expériences
 
 ### Actuellement
-__VelocIT__
+__VelocIT__\\
 Freelance / indépendant en informatique
 
 ### 2018-2024
