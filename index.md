@@ -3,7 +3,8 @@ layout: cv
 title: Thomas Bourgain - OPS Engineer
 ---
 # Thomas Bourgain
-OPS Engineer indépendant / Freelance
+OPS Engineer indépendant / Freelance\\
+Ingénieur systèmes et réseaux polyvalent et expérimenté, j'essaye de privilégier les solutions open-source reconnues et innovantes. J'interviens sur des domaines aussi variés que l'expertise technique, l'architecture technique, l'optimisation, la supervision, l'automatisation, …
 
 <div id="webaddress">
 <a href="tb@veloc.it">tb@veloc.it</a>
@@ -12,7 +13,7 @@ OPS Engineer indépendant / Freelance
 
 ## Compétences
 
-Linux, CI/CD, Azure Devops, Ansible, AWS, Puppet
+Linux, CI/CD, Kubernetes, Azure Devops, Ansible, AWS, Puppet
 
 ## Expériences
 
