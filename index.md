@@ -71,11 +71,11 @@ Mission @Wanadoo Services Pro
 
 Docker, Kubernetes (CKAD), Ansible, Agilité
 
-### 1996-1998
+### 2001-2003
 
-__BTS Transport logistique__
+__Gestionnaire de parc informatique__
 
-lycée Lesage de Vannes
+Institut Poly informatique
 
 ### 1999
 
@@ -83,11 +83,11 @@ __Service militaire__
 
 Armée
 
-### 2001-2003
+### 1996-1998
 
-__Gestionnaire de parc informatique__
+__BTS Transport logistique__
 
-- Institut Poly informatique
+lycée Lesage de Vannes
 
 ## Perso
 
