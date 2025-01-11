@@ -18,7 +18,7 @@ Linux, CI/CD, Kubernetes, Azure Devops, Ansible, AWS, Puppet
 ## Expériences
 
 ### Actuellement
-
+__VelocIT__
 Freelance / indépendant en informatique
 
 ### 2018-2024
