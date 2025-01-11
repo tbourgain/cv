@@ -26,13 +26,13 @@ Freelance / indépendant en informatique
 ### 2018-2024
 __ING Bank France__\\
 OPS Engineer
-Travail en méthode Agile
-Administration système, bases de données, supervision.
+Travail en méthode Agile\\
+Administration système, bases de données, supervision\\
 Amélioration du monitoring à l’aide d’une solution ELK/Grafana. Mise en place de dashboard de monitoring.
-Formation des collaborateurs aux solutions de monitoring / alerting
-Azure DEVOPS, création/amélioration de pipelines de déploiement
-Création de plyabook Ansible
-Mise en oeuvre du plan de reprise d’activité
+Formation des collaborateurs aux solutions de monitoring / alerting\\
+Azure DEVOPS, création/amélioration de pipelines de déploiement\\
+Création de playbooks Ansible\\
+Mise en oeuvre du plan de reprise d’activité\\
 Compétences : ELK / Grafana, node_exporter, Puppet, ansible, Azure Devops, Openshift, Kubernetes
 
 ### 2012-2018
