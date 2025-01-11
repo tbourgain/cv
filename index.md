@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Thomas Bourgain CV
+title: Thomas Bourgain - OPS Engineer
 ---
 # Thomas Bourgain
 OPS Engineer
