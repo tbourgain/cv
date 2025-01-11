@@ -3,7 +3,7 @@ layout: cv
 title: Thomas Bourgain - OPS Engineer
 ---
 # Thomas Bourgain
-OPS Engineer
+OPS Engineer indépendant / Freelance
 
 <div id="webaddress">
 <a href="tb@veloc.it">tb@veloc.it</a>
@@ -19,26 +19,19 @@ Freelance / indépendant en informatique
 
 Linux, CI/CD, Azure Devops, Ansible
 
-### Research interests
+## Formation
 
+1996-1998
+__BTS Transport logistique__
+- lycée Lesage de Vannes
 
+1999
+__Service militaire__
+- Armée
 
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+2001-2003
+__Gestionnaire de parc informatique__
+- Institut Poly informatique
 
 ## Awards
 
