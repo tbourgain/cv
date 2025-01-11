@@ -13,10 +13,6 @@ OPS Engineer indépendant / Freelance
 | <a href="https://tb.veloc.it">VelocIT landing page</a>
 </div>
 
-## Compétences
-
-Linux, CI/CD, Kubernetes, Azure Devops, Ansible, AWS, Puppet
-
 ## Expériences
 
 ### Actuellement
