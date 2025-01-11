@@ -2,8 +2,10 @@
 layout: cv
 title: Thomas Bourgain - OPS Engineer
 ---
-# Thomas Bourgain
+# Thomas Bourgain\\
+^
 OPS Engineer indépendant / Freelance\\
+^
 _Ingénieur systèmes et réseaux polyvalent et expérimenté, j'essaye de privilégier les solutions open-source reconnues et innovantes. J'interviens sur des domaines aussi variés que l'expertise technique, l'architecture technique, l'optimisation, la supervision, l'automatisation_
 
 <div id="webaddress">
