@@ -70,16 +70,15 @@ __Service militaire__\\
 Armée
 
 ### 1996-1998
-
 __BTS Transport logistique__\\
 lycée Lesage de Vannes
 
-## Centres d'intérêts
+## Intérêts
 ### Badminton
-Je participe à la vie de mon club en tant que responsable de la section Badminton, capitaine d'équipe pour les championnats interclub départementaux et compétiteur actif.
+Je participe à la vie de mon club en tant que responsable de la section Badminton, capitaine d'équipe pour les championnats interclub départementaux et compétiteur actif
 
 ### Vélo
-Je m'intéresse beaucoup à l'objet vélo et surtout comme moyen de transport
+Je m'intéresse beaucoup à l'objet vélo surtout comme moyen de transport, je suis par contre moyennement attiré par le cyclisme en tant que sport
 
 ### Photographie
 Moins accro désormais j'essaye au mieux d'immortaliser les évênements important et les voyages
