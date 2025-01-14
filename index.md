@@ -8,7 +8,7 @@ OPS Engineer indépendant / Freelance
 
 >_Ingénieur systèmes et réseaux polyvalent et expérimenté, j'essaye de privilégier les solutions open-source reconnues et innovantes. J'interviens sur des domaines aussi variés que l'expertise technique, l'architecture technique, l'optimisation, la supervision, l'automatisation_
 
-<a href="tb@veloc.it">tb@veloc.it</a> | <a href="https://tb.veloc.it">VelocIT landing page</a>
+<p id="webaddress"><a href="tb@veloc.it">tb@veloc.it</a> | <a href="https://tb.veloc.it">VelocIT landing page</a></p>
 
 ## Expériences
 
