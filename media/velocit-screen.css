@@ -170,12 +170,11 @@ a:hover {
 
 #webaddress {
 	margin-top: 1em;
-	position: relative;
 	left: 20%;
 	color: #bc412b;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
-	width: 95%;
+	#width: 95%;
 }
 
 #webaddress a {
