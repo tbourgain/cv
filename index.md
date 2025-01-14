@@ -21,7 +21,7 @@ __ING Bank France__\\
 OPS Engineer
 Travail en méthode Agile\\
 Administration système, bases de données, supervision\\
-Amélioration du monitoring à l’aide d’une solution ELK/Grafana. Mise en place de dashboard de monitoring.
+Amélioration du monitoring à l’aide d’une solution ELK/Grafana. Mise en place de dashboard de monitoring\\
 Formation des collaborateurs aux solutions de monitoring / alerting\\
 Azure DEVOPS, création/amélioration de pipelines de déploiement\\
 Création de playbooks Ansible\\
@@ -50,11 +50,11 @@ Compétences : Solaris 8/9/10, Linux, Windows, Novell Netware, IBM AS400, VmWare
 __Ozitem__\\
 __Administrateur systèmes réseaux__ en mission chez _Natexis Bleichroeder_\\
 Administration Solaris 8/9/10\\
-Développement php, Scripting\\
+Développement php, Scripting
 
 __Technicien UNIX__ en mission chez _Wanadoo Services pro_\\
 Support niveau 2 hébergement Web sous Linux (apache httpd) \\
-Découverte des architectures haute disponibilité\\
+Découverte des architectures haute disponibilité
 
 
 ## Formations
