@@ -48,14 +48,13 @@ Compétences : Solaris 8/9/10, Linux, Windows, Novell Netware, IBM AS400, VmWare
 
 ### 2001-2005
 __Ozitem__\\
-####Administrateur systèmes réseaux
+__Administrateur systèmes réseaux__ en mission chez _Natexis Bleichroeder_\\
 Administration Solaris 8/9/10\\
-Développement php, Scripting
-Mission @Natexis Bleichroeder
-####Technicien UNIX
-Technicien de support hébergement Web sous Linux\\
-Découverte des architectures haute disponibilité
-Mission @Wanadoo Services Pro
+Développement php, Scripting\\
+
+__Technicien UNIX__ en mission chez _Wanadoo Services pro_\\
+Support niveau 2 hébergement Web sous Linux (apache httpd) \\
+Découverte des architectures haute disponibilité\\
 
 
 ## Formations
