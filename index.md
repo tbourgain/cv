@@ -75,13 +75,11 @@ lycée Lesage de Vannes
 
 ## Intérêts
 ### Badminton
-Je participe à la vie de mon club en tant que responsable de la section Badminton, capitaine d'équipe pour les championnats interclub départementaux et compétiteur actif
+Je participe activement à la vie de mon club en tant que responsable de la section Badminton, capitaine d'équipe d'interclub, correspondant interclub et compétiteur actif
 
 ### Vélo
-Je m'intéresse beaucoup à l'objet vélo surtout comme moyen de transport, je suis par contre moyennement attiré par le cyclisme en tant que sport
+Je m'intéresse beaucoup à l'objet vélo surtout comme moyen de transport
 
 ### Photographie
-Moins accro désormais j'essaye au mieux d'immortaliser les évênements important et les voyages
-
-
+Moins accro qu'auparavant, j'essaye au mieux d'immortaliser les évênements important et les voyages
 
