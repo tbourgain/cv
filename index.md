@@ -40,7 +40,7 @@ Compétences : Rundeck, ELK, haproxy, HP 3PAR, MySQL, Talend
 
 ### 2005-2012
 __AON France__\\
-Ingénieur système / Administrateur systèmes et réseaux
+Ingénieur système / Administrateur systèmes et réseaux\\
 Embauché en tant qu'administrateur Solaris j'ai rapidement élargi mon domaine d'intervention pour devenir administrateur systèmes et réseaux polyvalent en environnement hétérogène\\
 Support technique niveau 2 & 3\\
 Responsable des environnements UNIX/Linux, Web\\
