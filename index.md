@@ -56,34 +56,33 @@ __Technicien UNIX__ en mission chez _Wanadoo Services pro_\\
 Support niveau 2 hébergement Web sous Linux (apache httpd) \\
 Découverte des architectures haute disponibilité
 
-
 ## Formations
 
 ### Professionnelles
-
-Docker, Kubernetes (CKAD), Ansible, Agilité
+Docker, Kubernetes (CKAD), Ansible, Agilité, Oracle 10
 
 ### 2001-2003
-
-__Gestionnaire de parc informatique__
-
+__Gestionnaire de parc informatique__\\
 Institut Poly informatique
 
 ### 1999
-
-__Service militaire__
-
+__Service militaire__\\
 Armée
 
 ### 1996-1998
 
-__BTS Transport logistique__
-
+__BTS Transport logistique__\\
 lycée Lesage de Vannes
 
-## Perso
+## Centres d'intérêts
+### Badminton
+Je participe à la vie de mon club en tant que responsable de la section Badminton, capitaine d'équipe pour les championnats interclub départementaux et compétiteur actif.
 
-Badminton, photographie, vélo
+### Vélo
+Je m'intéresse beaucoup à l'objet vélo et surtout comme moyen de transport
+
+### Photographie
+Moins accro désormais j'essaye au mieux d'immortaliser les évênements important et les voyages
 
 
 
