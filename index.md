@@ -9,7 +9,7 @@ père, sportif, gourmand
 
 >_Ingénieur systèmes et réseaux polyvalent et expérimenté, j'essaye de privilégier les solutions open-source reconnues. J'interviens sur des domaines aussi variés que l'expertise technique, l'architecture technique, l'optimisation, la supervision, l'automatisation_
 
-<p id="webaddress"><a href="mailto:tb@veloc.it">tb@veloc.it</a> | <a href="https://tb.veloc.it">VelocIT landing page</a></p>
+<p id="webaddress"><a href="mailto:tb@veloc.it">tb@veloc.it</a> | <a href="https://www.veloc.it">www.veloc.it</a></p>
 
 ## Expériences
 
