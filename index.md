@@ -4,8 +4,8 @@ title: Thomas Bourgain - OPS Engineer
 ---
 # Thomas Bourgain
 
-OPS Engineer indépendant / Freelance
-père, sportif, 
+OPS Engineer indépendant / Freelance\\
+père, sportif, gourmand
 
 >_Ingénieur systèmes et réseaux polyvalent et expérimenté, j'essaye de privilégier les solutions open-source reconnues. J'interviens sur des domaines aussi variés que l'expertise technique, l'architecture technique, l'optimisation, la supervision, l'automatisation_
 
