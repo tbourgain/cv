@@ -59,7 +59,7 @@ Découverte des architectures haute disponibilité
 ## Certifications
 
 ### 2024
-__Green IT et numérique responsable__
+__Green IT et numérique responsable__\\
 __Green IT - Analyse du cycle de VIE (ACV)__
 
 ## Formations
