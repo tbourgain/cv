@@ -56,10 +56,16 @@ __Technicien UNIX__ en mission chez _Wanadoo Services pro_\\
 Support niveau 2 hébergement Web sous Linux (apache httpd) \\
 Découverte des architectures haute disponibilité
 
+## Certifications
+
+### 2024
+__Green IT et numérique responsable__
+__Green IT - Analyse du cycle de VIE (ACV)__
+
 ## Formations
 
 ### Professionnelles
-Docker, Kubernetes (CKAD), Ansible, Agilité, Oracle 10
+Docker, Kubernetes (CKAD), Ansible, Agilité, Oracle
 
 ### 2001-2003
 __Gestionnaire de parc informatique__\\
@@ -73,12 +79,13 @@ Armée
 __BTS Transport logistique__\\
 lycée Lesage de Vannes
 
+### 1996
+__Baccalauréat STT__\\
+lycée Lesage de Vannes
+
 ## Intérêts
 ### Badminton
 Je participe activement à la vie de mon club en tant que responsable de la section Badminton, capitaine d'équipe d'interclub, correspondant interclub et compétiteur actif
-
-### Vélo
-Je m'intéresse beaucoup à l'objet vélo surtout comme moyen de transport
 
 ### Photographie
 Moins accro qu'auparavant, j'essaye au mieux d'immortaliser les évênements important et les voyages
